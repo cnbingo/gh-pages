@@ -1,4 +1,4 @@
-# git pages with hexo
+# gh-pages with hexo
 
 ## use theme next
 
